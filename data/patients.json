@@ -1,0 +1,29 @@
+[
+  {
+    "id": "P001",
+    "firstName": "Ravi",
+    "lastName": "Kumar",
+    "dateOfBirth": "1985-10-20",
+    "gender": "Male",
+    "contactNumber": "9876543210",
+    "status": "Active"
+  },
+  {
+    "id": "P002",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "dateOfBirth": "1992-03-14",
+    "gender": "Female",
+    "contactNumber": "8765432109",
+    "status": "Active"
+  },
+  {
+    "firstName": "Santosh",
+    "lastName": "P",
+    "dateOfBirth": "2002-05-03",
+    "contactNumber": "9100343522",
+    "gender": "Male",
+    "status": "Active",
+    "id": "P1756832055872"
+  }
+]

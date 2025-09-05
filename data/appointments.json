@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A001",
+    "patientId": "P001",
+    "doctorName": "Dr. Singh",
+    "appointmentDate": "2025-09-15T10:00:00",
+    "reason": "Follow-up checkup",
+    "status": "Scheduled"
+  },
+  {
+    "id": "A002",
+    "patientId": "P002",
+    "doctorName": "Dr. Reddy",
+    "appointmentDate": "2025-09-16T11:30:00",
+    "reason": "General consultation",
+    "status": "Scheduled"
+  },
+  {
+    "patientId": "P001",
+    "doctorName": "NA",
+    "appointmentDate": "2025-09-25T22:28",
+    "reason": "Checkup",
+    "status": "Scheduled",
+    "id": "A1756832351599"
+  },
+  {
+    "patientId": "P1756832055872",
+    "doctorName": "Valli",
+    "appointmentDate": "2025-09-05T09:47",
+    "reason": "Pimple Therapy",
+    "status": "Scheduled",
+    "id": "A1757045872317"
+  },
+  {
+    "patientId": "P001",
+    "doctorName": "Valli",
+    "appointmentDate": "2025-09-05T09:48",
+    "reason": "Cardio",
+    "status": "Scheduled",
+    "id": "A1757045919275"
+  }
+]

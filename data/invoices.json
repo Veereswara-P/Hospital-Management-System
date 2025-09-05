@@ -1,0 +1,25 @@
+[
+  {
+    "id": "INV001",
+    "patientId": "P001",
+    "invoiceDate": "2025-09-15T12:00:00",
+    "items": [
+      {
+        "id": "item1",
+        "description": "Doctor Consultation",
+        "quantity": 1,
+        "unitPrice": 500,
+        "total": 500
+      },
+      {
+        "id": "item2",
+        "description": "Routine Blood Test",
+        "quantity": 1,
+        "unitPrice": 750,
+        "total": 750
+      }
+    ],
+    "totalAmount": 1250,
+    "paymentStatus": "Unpaid"
+  }
+]

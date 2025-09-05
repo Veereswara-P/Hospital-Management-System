@@ -1,0 +1,71 @@
+[
+  {
+    "id": "LT001",
+    "patientId": "P001",
+    "testType": "Complete Blood Count",
+    "orderedBy": "Dr. Arjun Gupta",
+    "sampleId": "SMPL-101",
+    "testDate": "2025-09-18T09:00:00.000Z",
+    "status": "Completed",
+    "result": "All values within normal range."
+  },
+  {
+    "id": "LT002",
+    "patientId": "P002",
+    "testType": "Thyroid Panel",
+    "orderedBy": "Dr. Arjun Gupta",
+    "sampleId": "SMPL-102",
+    "testDate": "2025-09-19T11:00:00.000Z",
+    "status": "Pending"
+  },
+  {
+    "patientId": "P002",
+    "testType": "Hbaic",
+    "status": "Pending",
+    "result": "",
+    "orderedBy": "Dr. Arjun Gupta",
+    "sampleId": "SMPL-1757040923990",
+    "testDate": "2025-09-05T02:55:23.990Z",
+    "id": "LT1757040924403"
+  },
+  {
+    "patientId": "P002",
+    "testType": "Hbaic",
+    "status": "Pending",
+    "result": "",
+    "orderedBy": "Dr. Arjun Gupta",
+    "sampleId": "SMPL-1757040926066",
+    "testDate": "2025-09-05T02:55:26.066Z",
+    "id": "LT1757040926478"
+  },
+  {
+    "patientId": "P002",
+    "testType": "Hbaic",
+    "status": "Pending",
+    "result": "",
+    "orderedBy": "Dr. Arjun Gupta",
+    "sampleId": "SMPL-1757040928240",
+    "testDate": "2025-09-05T02:55:28.240Z",
+    "id": "LT1757040928669"
+  },
+  {
+    "patientId": "P002",
+    "testType": "Hbaic",
+    "status": "Pending",
+    "result": "",
+    "orderedBy": "Dr. Arjun Gupta",
+    "sampleId": "SMPL-1757040928466",
+    "testDate": "2025-09-05T02:55:28.466Z",
+    "id": "LT1757040928821"
+  },
+  {
+    "patientId": "P002",
+    "testType": "Hbaic",
+    "status": "Pending",
+    "result": "",
+    "orderedBy": "Dr. Arjun Gupta",
+    "sampleId": "SMPL-1757040941595",
+    "testDate": "2025-09-05T02:55:41.595Z",
+    "id": "LT1757040942032"
+  }
+]

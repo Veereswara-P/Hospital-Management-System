@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MED001",
+    "name": "Paracetamol 500mg",
+    "batchNumber": "B-1123",
+    "quantity": 250,
+    "supplier": "Pharma Inc.",
+    "expiryDate": "2026-12-31"
+  },
+  {
+    "id": "MED002",
+    "name": "Amoxicillin 250mg",
+    "batchNumber": "B-4567",
+    "quantity": 175,
+    "supplier": "Health Supply Co.",
+    "expiryDate": "2025-08-31"
+  },
+  {
+    "id": "MED003",
+    "name": "Ibuprofen 200mg",
+    "batchNumber": "B-8901",
+    "quantity": 300,
+    "supplier": "Pharma Inc.",
+    "expiryDate": "2027-05-31"
+  }
+]
